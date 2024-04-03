@@ -1,6 +1,7 @@
+![GitHub Header Image](https://raw.githubusercontent.com/ar-jun2001/porfolioimage/master/github-header-image.png)
 ### Hi there 👋, Arjun Mahendran
 #### 
-![I am Software Developer]![GitHub Header Image](https://raw.githubusercontent.com/ar-jun2001/porfolioimage/master/github-header-image.png)
+I am Software Developer 
 
 
 Hey there! I'm Arjun Mahendran, an experienced software developer with two years of hands-on experience in crafting robust Java-based solutions. My journey in software development began with a fascination for Java's versatility and scalability, and over the years, I've honed my skills in this language to build scalable web applications and microservices.
