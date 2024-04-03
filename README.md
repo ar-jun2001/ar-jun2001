@@ -8,7 +8,7 @@ I'm experienced software developer with two years of hands-on experience in craf
 
 Technical Expertise:
 
-Languages:  ;![Uploading MyCodeGIF.gif…](),  ; 
+Languages: Proficient in Java, with a strong foundation in core Java concepts and object-oriented programming.
  Proficient in Java, with a strong foundation in core Java concepts and object-oriented programming.
 Frameworks: Experienced in developing RESTful APIs and web applications using Spring Boot, leveraging its powerful features for rapid development and deployment.
 Databases: Skilled in designing and optimizing MySQL databases, ensuring efficient data storage and retrieval.
