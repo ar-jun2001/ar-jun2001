@@ -1,6 +1,6 @@
 ### Hi there 👋, Arjun Mahendran
 #### I am Software Developer
-![I am Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Software Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/ar-jun2001/porfolioimage.git))
 
 Hey there! I'm Arjun Mahendran, an experienced software developer with two years of hands-on experience in crafting robust Java-based solutions. My journey in software development began with a fascination for Java's versatility and scalability, and over the years, I've honed my skills in this language to build scalable web applications and microservices.
 
