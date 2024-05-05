@@ -43,4 +43,4 @@ I'm deeply passionate about staying updated with the latest in technology and co
 
 Let's connect and discuss how I can contribute to your team or project!
 
-[GitHub](https://github.com/ar-jun2001)  [Website](https://github.com/ar-jun2001)  
+[GitHub](https://github.com/ar-jun2001)  [LinkedIn](https://www.linkedin.com/in/arjunmahi01/)  
