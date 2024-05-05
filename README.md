@@ -30,7 +30,7 @@ I'm an experienced software developer with a passion for crafting robust Java-ba
 
 **Additional Skills & Technologies:**
 - **SQL Server:** Familiar with SQL Server databases and proficient in writing SQL queries.
-- **Store Procedure:** Proficient in creating stored procedures for MySQL databases.
+- **Stored Procedure:** Proficient in creating stored procedures for MySQL databases.
 - **Spring Boot Admin:** Experienced in Spring Boot Admin for managing and monitoring Spring Boot applications.
 
 ### Professional Approach:
