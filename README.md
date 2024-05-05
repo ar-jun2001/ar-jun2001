@@ -2,8 +2,6 @@
 ## Software Developer | Java Backend Developer
 - 😄 Pronouns: He/Him/His 
 
-![GitHub Header Image](https://raw.githubusercontent.com/ar-jun2001/porfolioimage/master/github-header-image.png)
-
 I'm an experienced software developer with a passion for crafting robust Java-based solutions. With two years of hands-on experience, specializing in backend development, I've honed my skills in building scalable web applications and microservices.
 
 ### Technical Expertise:
