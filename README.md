@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Arjun Mahendran
 ## Software Developer | Java Backend Developer
+- 😄 Pronouns: He/Him/His 
 
 ![GitHub Header Image](https://raw.githubusercontent.com/ar-jun2001/porfolioimage/master/github-header-image.png)
 
@@ -29,27 +30,19 @@ I'm an experienced software developer with a passion for crafting robust Java-ba
 - ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) Experienced in Spring MVC for building web applications.
 - ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) Comfortable working with Eclipse IDE for Java development.
 
-### Additional Skills & Technologies:
-
+**Additional Skills & Technologies:**
 - **SQL Server:** Familiar with SQL Server databases and proficient in writing SQL queries.
 - **Store Procedure:** Proficient in creating stored procedures for MySQL databases.
 - **Spring Boot Admin:** Experienced in Spring Boot Admin for managing and monitoring Spring Boot applications.
 
 ### Professional Approach:
-
 - **Agile Methodologies:** Proficient in Agile software development practices, ensuring efficient project management and rapid delivery of high-quality software solutions.
 - **Code Quality Assurance:** Dedicated to maintaining code quality through code reviews, unit testing, and adherence to coding standards, ensuring the reliability and scalability of applications.
 - **Problem-Solving Skills:** Proven ability to analyze complex problems, devise effective solutions, and implement them efficiently, contributing to the overall success of projects.
 
 ### Passionate about Learning & Growth:
-
 I'm deeply passionate about staying updated with the latest in technology and continuously enhancing my skills. Whether it's exploring new frameworks, mastering emerging technologies, or contributing to open-source projects, I thrive on the challenges and opportunities of being a software developer.
 
 Let's connect and discuss how I can contribute to your team or project!
-
-Skills: JAVA / SQL / SPRINGBOOT / SPRINGSECURITY/ 
-
-- 🔭 I’m currently working on this page. 
-- 😄 Pronouns: He/Him/His 
 
 [GitHub](https://github.com/ar-jun2001)  [Website](https://github.com/ar-jun2001)  
